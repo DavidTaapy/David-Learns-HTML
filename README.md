@@ -10,6 +10,8 @@ There are 3 pages written for the website:
 - About
 - Favourite
 
+The website can be accessed at https://davidtaapy.github.io/David-Learns-HTML/!
+
 ## Snapshots
 
 ![Home](/snapshots/Home.PNG)
